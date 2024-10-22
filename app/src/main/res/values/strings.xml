@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lunchtime Restaurant Discovery</string>
+    <string name="error_button_text">Try Again</string>
+    <string name="error_title">Loading Error</string>
+    <string name="permissions_title">Permission Required</string>
+    <string name="permissions_text">This app requires location permissions to function properly. Please grant access in the app settings.</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="all_trails_lunch">"All Trails at lunch"</string>
+    <string name="search">Search restaurants</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="star">Star</string>
+    <string name="dot_spacer">•</string>
+    <string name="clear_text">Clear Text</string>
+    <string name="map_button">Map</string>
+    <string name="list_button">List</string>
+</resources>
